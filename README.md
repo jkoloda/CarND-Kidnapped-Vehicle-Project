@@ -31,4 +31,4 @@ See `writeup-report` for more details.
 
 ## Examples
 
-A video example is included in `videos` folder. The folder contains a `README` file with more information.
+A video example is included in `videos` folder.
